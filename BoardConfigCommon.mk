@@ -85,6 +85,9 @@ XPERIENCE_IN_ADBLOCK := true
 # FM
 TARGET_QCOM_NO_FM_FIRMWARE := true
 
+# Filesystem
+TARGET_ANDROID_FILESYSTEM_CONFIG_H := $(VENDOR_PATH)/android_filesystem_config.h
+
 # Init
 TARGET_UNIFIED_DEVICE := true
 
