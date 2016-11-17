@@ -4,10 +4,8 @@
     "target_path": "kernel/motorola/msm8916"
   },
   {
-    "remote" : "cyan",
     "repository": "android_external_bson",
     "target_path": "external/bson",
-    "branch": "cm-13.0"
   },
   {
     "repository": "android_device_qcom_common",
