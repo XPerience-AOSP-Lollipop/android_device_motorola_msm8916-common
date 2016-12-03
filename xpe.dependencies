@@ -11,9 +11,11 @@
     "repository": "android_device_qcom_common",
     "target_path": "device/qcom/common"
   },
-  {
+  { 
+    "remote":  "cyan",
     "repository": "android_packages_resources_devicesettings",
-    "target_path": "packages/resources/devicesettings"
+    "target_path": "packages/resources/devicesettings",
+    "revision": "cm-14.1"
   }
 ]
 
