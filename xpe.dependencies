@@ -25,9 +25,10 @@
     "branch":      "xpe-11.1"
   },
   {
-  "remote" : "github",
-  "repository": "TheMuppets/proprietary_vendor_qcom_binaries",
-  "target_path": "vendor/qcom/binaries"
+  "remote" : "Muppet",
+  "repository": "proprietary_vendor_qcom_binaries",
+  "target_path": "vendor/qcom/binaries",
+  "branch":      "cm-14.1"
   }
 ]
 
