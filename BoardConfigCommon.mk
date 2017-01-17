@@ -83,6 +83,7 @@ USE_OPENGL_RENDERER := true
 XPERIENCE_IN_ADBLOCK := true
 
 # FM
+BOARD_HAVE_QCOM_FM := true
 TARGET_QCOM_NO_FM_FIRMWARE := true
 
 # Filesystem
